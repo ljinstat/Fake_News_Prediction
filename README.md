@@ -1,4 +1,4 @@
-# Fake News Detection
+# Fake News Prediction
 
 > Fake news is a type of yellow journalism or propaganda that consists of deliberate misinformation or hoaxes spread via traditional print and broadcast news media or online social media. --- Wikipedia
 
